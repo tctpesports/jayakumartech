@@ -14,10 +14,10 @@
 
 Heroku provides 1 month of free dyno hours.So we dont recommend you to deploy it to Heroku as it can make your bot offline after 1 month.
 You can use our Discord Pinger which will ping your Project every 5 min.
-[Head over to #ping your project in Android Discord](https://discord.gg/mspMU79cGa)
+[Head over to #ping your project in jayakumartech](https://discord.gg/4W8Yq8and9)
 
 ```
-git clone https://github.com/gtagamermods/admusicbot.git
+git clone https://github.com/tctpesports/jayakumartech.git
 cd admusicbot
 npm install
 ```
@@ -45,19 +45,19 @@ Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
 ## 📝 Features & Commands
 
-> Note: The default prefix is 'ad!'
+> Note: The default prefix is '.'
 
 * 🎶 Using YouTube Url
 
-`ad!play https://www.youtube.com/c/ANDROIDDISCORD`
+`.play https://www.youtube.com/c/JAYAKUMARTECH`
 
 * 🔎 Playing music via Name
 
-`ad!play Let me love you`
+`.play Let me love you`
 
 * 🔎 Search and play
 
-`ad!search NCS Astronomia`
+`.search NCS Astronomia`
 
 Reply with song number or numbers seperated by comma that you wish to play
 
@@ -65,21 +65,21 @@ Examples: `1` or `1,2,3`
 
 * 📃 Play a playlist directly from youtube to Discord
 
-`ad!playlist https://www.youtube.com/playlist?list=PLeiP6sSl8XyF7qcJ7WR6FjkpKtNBtzkqe`
-![playlist](https://cdn.discordapp.com/attachments/785811074603024386/786053415129055232/IMG_20201209_074321.jpg)
+`.playlist https://youtube.com/playlist?list=PLHuHXHyLu7BG-gV5fc8y_jir4rKtUPHKr`
+
 
 * 🔎 Play youtube playlists via search query
 
-`ad!playlist NCS Releases`
-![search](https://cdn.discordapp.com/attachments/785811074603024386/786054390053339146/IMG_20201209_074924.jpg)
+`.playlist NCS Releases`
+![search]
 
 **Commands of Our Bot**
 
-* Now Playing (ad!np)
-* Queue system (ad!queue, ad!q)
-* Loop / Repeat (ad!loop)
-* Shuffle (ad!shuffle)
-* Volume control (ad!volume, ad!v)
+* Now Playing (.np)
+* Queue system (.queue, .q)
+* Loop / Repeat (.loop)
+* Shuffle (.huffle)
+* Volume control (.volume, .v)
 * Lyrics (ad!lyrics, ad!ly)
 * Pause (ad!pause)
 * Resume (ad!resume, ad!r)
